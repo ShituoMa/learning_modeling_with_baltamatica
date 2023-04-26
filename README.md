@@ -1,0 +1,2 @@
+# learning_modeling_with_baltamatica
+基于北太天元的数学建模新手教材编写，感谢北京大学卢朓老师、李若老师等人的支持
